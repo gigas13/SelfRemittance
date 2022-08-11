@@ -1,4 +1,6 @@
 # SelfRemittance
+
+STREAMILIT DASHBOARD
 Script to pick out a combintation of items (invoices) that matches a target number (payment)
 Displayed through python library "streamlit"
 Receives in input:
